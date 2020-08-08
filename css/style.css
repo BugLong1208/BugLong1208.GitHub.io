@@ -413,7 +413,7 @@ span.border.one:after {
 	width:70%;
 	float:right;
     margin-right: 10em;
-	min-height:433px;
+	min-height:630px;
 }
 .about-left-grid h2{
 	color:#191919;
@@ -467,11 +467,11 @@ span.border.one:after {
 .about-right{
 	    float: left;
 	padding:0;
-	background:url(../images/about-pic.jpg) no-repeat 0px 0px;
-	min-height:580px;
+	background:url(../images/img2.jpeg) no-repeat 100px 50px;
+	min-height:780px;
 	background-size: cover;
    -o-background-size: cover;
-   -webkit-background-size: cover;
+   -webkit-background-size: 75% 90%;
    -moz-background-size: cover;
    -ms-background-size: cover;
 }
